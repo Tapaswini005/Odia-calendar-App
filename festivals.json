@@ -1,0 +1,41 @@
+[
+    {"month":"January"},
+  {"date":"2025-01-01", "name_en":"New Year's Day", "name_od":"ନୂଆ ବର୍ଷ ଦିବସ"},
+  {"date":"2025-01-09", "name_en":"Samba Dasmi,Sudasa Brata", "name_od":"ସମ୍ବ ଦଶମୀ, ସୁଦସ ବ୍ରତ"},  
+  {"date":"2025-01-10","name_en":"Akadasi","name_od":"ଅକାଦଶୀ"},
+  {"date":"2025-01-13","name_en":"prunima","name_od":"ପୂର୍ଣ୍ଣିମା"},
+  {"date":"2025-01-14","name_en":"Makar Sank","name_od":"ମକର ସଂକ୍ରାନ୍ତି"},
+  {"date":"2025-01-15","name_en":"Pusyabhiseka","name_od":"ପୁଷ୍ୟାଭିଷେକ"},
+  {"date":"2025-01-23","name_en":"Netaji Subas chandra Bosh Jayanti","name_od":"ନେତାଜୀ ସୁବାସ୍ ଚନ୍ଦ୍ର ବୋଷ ଜୟନ୍ତୀ"},
+  {"date":"2025-01-25","name_en":"Ekadasi,Olasuni Mela","name_od":"ଏକାଦଶୀ,ଓଲାସୁଣି ମେଳା"},
+  {"date":"2025-01-26","name_en":"Sadharanatantra Dibasa, 76th Republic Day","name_od":"୭୬ତମ ସାଧାରଣତନ୍ତ୍ର ଦିବସ"},
+  {"date":"2025-01-29","name_en":"Tribeni Amabasya","name_od":"ତ୍ରିବେଣୀ ଅମାବାସ୍ୟା"},
+  {"month":"January","name_en":"Marraige dates","name_od":"ବିବାହ ଶୁଭ ତାରିଖଗୁଡିକ","days":[18,19,21,22,24,26,30]},
+  {"month":"January","name_en":"Brata Dates","name_od":"ବ୍ରତ ଶୁଭ ତାରିଖଗୁଡିକ","days":[16,31]},
+  
+
+    {"month":"February"},
+  {"date":"2025-02-02","name_en":"Shree Panchami, Saraswati Puja","name_od":"ଶ୍ରୀ ପଞ୍ଚମୀ, ସରସ୍ୱତୀ ପୂଜା"},
+  {"date":"2025-02-04","name_en":"Magha Saptami, Chandrabhaga Tirthe Snnana","name_od":"ମାଘ ସପ୍ତମୀ, ଚନ୍ଦ୍ରଭାଗ ତୀର୍ଥେ ସ୍ନାନ"},
+  {"date":"2025-02-08","name_en":"Akadasi","name_od":"ଅକାଦଶୀ"},
+  {"date":"2025-02-12","name_en":"Kumbha Sankranti, Magha Purnima, Agni Ustav","name_od":"କୁମ୍ଭ ସଂକ୍ରାନ୍ତି, ମାଘ ପୂର୍ଣ୍ଣିମା, ଅଗ୍ନି ଉତ୍ସବ"},
+  {"date":"2025-02-24","name_en":"Panka Udhara Akadasi","name_od":"ପଙ୍କ ଉଧାର ଏକାଦଶୀ"},
+  {"date":"2025-02-26","name_en":"Maha Shivaratri","name_od":"ମହା ଶିବରାତ୍ରି"},
+  {"date":"2025-02-28","name_en":"Amabasya","name_od":"ଅମାବାସ୍ୟା"},
+  {"month":"February","name_en":"Marraige dates","name_od":"ବିବାହ ଶୁଭ ତାରିଖଗୁଡିକ","days":[2, 4, 6, 7, 14, 17, 18, 20, 21, 23, 25]},
+  {"month":"February","name_en":"Brata Dates","name_od":"ବ୍ରତ ଶୁଭ ତାରିଖଗୁଡିକ","days":[2, 4, 7, 14, 17]},
+
+
+    {"date":"2025-03-01","month":"March"},
+  {"date":"2025-03-02","name_en":"Ramjan Masa Arambha","name_od":"ରମଜାନ ମାସ ଆରମ୍ଭ"},
+  {"date":"2025-03-05","name_en":"Phalguna Purnima, Holi","name_od":"ଫାଲ୍ଗୁନ ପୂର୍ଣ୍ଣିମା, ହୋଲି"},
+  {"date":"2025-03-06","name_en":"Dola Purnima","name_od":"ଡୋଳ ପୂର୍ଣ୍ଣିମା"},
+  {"date":"2025-03-10","name_en":"Akadasi","name_od":"ଅକାଦଶୀ"},
+  {"date":"2025-03-11","name_en":"Madhabika Ekadasi","name_od":"ମାଧବିକା ଏକାଦଶୀ"},
+  {"date":"2025-03-14","name_en":"Chaitra Sukla Pratipada, Ugadi","name_od":"ଚୈତ୍ର ସୁକ୍ଳ ପ୍ରଥମୀ, ଉଗାଡ଼ି"},
+  {"date":"2025-03-25","name_en":"Vishuva Sankranti, March Equinox","name_od":"ବିଷୁବ ସଂକ୍ରାନ୍ତି, ମାର୍ଚ୍ଚ ସମସ୍ତି"},
+  {"date":"2025-03-26","name_en":"Amabasya","name_od":"ଅମାବାସ୍ୟା"},
+  {"month":"March","name_en":"Marraige dates","name_od":"ବିବାହ ଶୁଭ ତାରିଖଗୁଡିକ","days":[1,3,4,6,8,9,12,13,15,16,17,19,20,22,23,24,27,28,29,30]},
+  {"month":"March","name_en":"Brata Dates","name_od":"ବ୍ରତ ଶୁଭ ତାରିଖଗୁଡିକ","days":[1,4,6,8,9,12,15,16,19,20]}
+  
+]
